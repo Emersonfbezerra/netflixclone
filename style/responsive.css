@@ -1,0 +1,19 @@
+@media screen and (max-width:700){
+    hearder .container{
+    flex-direction: column;
+    }
+
+
+    .botao{
+        margin-top: 5px;
+        width: 500px;
+    }
+    
+}
+
+@media screen and (min-width: 1000px){
+    .descricao{
+        width: 50%;
+    }
+    
+}
